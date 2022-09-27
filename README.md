@@ -1,3 +1,3 @@
 # Pull-Request-Example
 
-This is a pull request demoo.
+This is a pull request demo.
